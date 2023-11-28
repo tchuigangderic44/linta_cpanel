@@ -1,0 +1,7 @@
+{
+  "authModule" : {
+    "SignIn" : {
+      "signInto" : "Se connecter à"
+    }
+  }
+}
